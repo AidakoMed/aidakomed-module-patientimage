@@ -1,4 +1,4 @@
-# openmrs-module-patientimage
+# aidakomed-module-patientimage
 
 ## Overview
 
